@@ -1,4 +1,4 @@
-# AeroSchedule
+# Aircraft-Scheduling
 
 A C++ aircraft runway management and conflict resolution system. The program schedules flight requests, prioritizes emergency and low-fuel aircraft, detects runway overlap conflicts, and reassigns flights using a minimum separation window.
 
